@@ -1,0 +1,28 @@
+ .top-bar{
+     background-image: url("../img/background.jpg");
+
+ }
+
+ .logo{
+     margin-top:0;
+ }
+
+ .padding-0{
+
+     padding-right: 0.5%;
+     padding-left: 0;
+ }
+
+ .row{
+     margin-top: 5%;
+     padding-bottom: 3%;
+ }
+
+  #card-header-style{
+      color: #dc3545;
+      font-weight: bold;
+  }
+
+  #cuisine-box{
+      visibility: hidden;
+  }
